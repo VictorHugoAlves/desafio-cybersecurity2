@@ -17,7 +17,18 @@ Criando um ransomware com Python, criptografando um arquivo e depois descriptogr
   ```pip3 install pyaes```
 
 ## Resultados
-
+### Arquivos na pasta:
+![Alt text](./pastaArquivos.png "Pasta de Arquivos")
+### Arquivo teste em .txt
+![Alt text](./arquivoTeste.png "teste.txt")
+### Execução do arquivo python de criptografia:
+![Alt text](./executandoPython.png "Execução do arquivo python")
+### Arquivo Criptografado:
+![Alt text](./arquivoCryptografado.png "Arquivo Criptografado")
+### Execução do arquivo python de descriptografia:
+![Alt text](./descriptografandoArquivo.png "Execução do arquivo python")
+### Arquivo Descriptografado:
+![Alt text](./arquivoDescriptografado.png "Arquivo Descriptografado")
 
 
 ## Referências
